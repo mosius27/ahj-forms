@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/6fm23xavoojv3w9t?svg=true)](https://ci.appveyor.com/project/Nikiteo/ahj-5)
+[![Build status](https://ci.appveyor.com/api/projects/status/6fm23xavoojv3w9t?svg=true)](https://ci.appveyor.com/project/mosius27/ahj-5)
 
-https://nikiteo.github.io/ahj_5/
+https://mosius27.github.io/ahj-forms/
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер

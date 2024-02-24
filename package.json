@@ -1,5 +1,5 @@
 {
-  "name": "ahj_5",
+  "name": "ahj-forms",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "lint": "eslint .",
     "test": "jest --passWithNoTests"
   },
-  "repository": "git@github.com:Nikiteo/ahj_5.git",
-  "author": "Nikiteo <zhigiley.nikita2012@yandex.ru>",
+  "repository": "git@github.com:mosius27/ahj-forms.git",
+  "author": "mosius27 <mosius27@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.8.4",
